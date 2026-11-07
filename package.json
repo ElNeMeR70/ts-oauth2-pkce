@@ -1,0 +1,20 @@
+{
+  "name": "ts-oauth2-pkce",
+  "version": "1.0.0",
+  "description": "OAuth 2.0 PKCE flow implementation with code verifier/challenge",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx tsx main.ts"
+  },
+  "keywords": ["typescript", "oauth2", "pkce", "authentication", "security"],
+  "author": "Mahmoud ElNemer <sultanelnemer@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/ts-oauth2-pkce.git"
+  },
+  "devDependencies": {
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
